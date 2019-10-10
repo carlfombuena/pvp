@@ -1,0 +1,28 @@
+body{
+/*background:no-repeat url(../image/background.jpg);
+  background-size:cover;*/
+  margin:0;
+  font-family:  "Ubuntu",sans-serif;
+}
+
+.navbar-nav a:hover
+ {
+  color: gray !important;
+
+  }
+  h4{
+    font-family: 'Fredoka One', cursive;
+  }
+.icon{
+  color:#efb52b;
+}
+.footer{
+  background:#efb52b;
+  overflow: hidden;
+}
+.footer-size{
+  
+  margin:10px;
+  text-align: center;
+  color: #016a66;
+}

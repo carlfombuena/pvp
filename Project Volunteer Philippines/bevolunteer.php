@@ -1,0 +1,259 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title>Project Volunteer Philippines (PVP)</title>
+  <link rel="icon" href="image/faviconpvp.ico">
+  <link href="https://fonts.googleapis.com/css?family=Fredoka+One|Ubuntu&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+  <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+<div class="container-fluid">
+
+
+  <nav class="navbar navbar-expand-lg fixed-top navbar-light bg-light" style="background:#f6ebf9 !important;">
+    <a href="index.html"> <img src="image/logo.png" alt="" style=" width:60px; height:60px;"></a>
+    <a class="navbar-brand" href="index.html">@projectvolunteersphilippines</a>
+    <button class="navbar-toggler " type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav ml-auto">
+        <li class="nav-item active">
+          <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a>
+        </li>
+        <li class="nav-item active">
+          <a class="nav-link" href="index.html">Be a volunteer <span class="sr-only">(current)</span></a>
+        </li>
+
+        <li class="nav-item active">
+          <a class="nav-link" href="index.html">Volunteering Sites <span class="sr-only">(current)</span></a>
+        </li>
+        <li class="nav-item active">
+          <a class="nav-link" href="index.html">About Us <span class="sr-only">(current)</span></a>
+        </li>
+        <li class="nav-item active">
+          <a class="nav-link" href="index.html">Contact Us <span class="sr-only">(current)</span></a>
+        </li>
+      </ul>
+
+    </div>
+  </nav>
+
+
+
+
+  <div class="row">
+    <div class="side-body col-lg-9" style="background:#f6ebf9;">
+      <!--  <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fprojectvolunteersphilippines%2Fvideos%2F343525753108736%2F&show_text=1&width=560" width="560" height="527" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media" allowFullScreen="true"></iframe>
+-->
+
+      <center>
+
+
+        <div class="col-lg-8 embed-responsive embed-responsive-4by3" style="box-shadow:5px 5px 3px black;">
+          <iframe style="width:100%; height:100%;"  class="embed-responsive-item" src="https://www.youtube.com/embed/BCIxlJ01QTk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen align="middle"></iframe>
+            </div>
+      </center>
+      <div class="col-lg-12" style="background:#eb5401;position:relative; margin-top:10px; opacity:.9; " >
+        <div class="row" style="background:#eb5401; color:#f6ebf9;  padding:30px; ">
+
+          <div class="col-sm-12  col-lg-6" style="text-shadow:1px 1px 5px #016a66;">
+
+        <center>
+
+        <i class="fa fa-lightbulb-o fa-4x icon" aria-hidden="true" ></i>   </center> <h4 >What is Project Volunteer Philippines?</h4>
+            <p style="text-align:justify; text-indent:20px; line-height:2;">The Project Volunteers Philippines is a Volunteering Organization that promotes volunteerism in all ages, travel with them while helping our fellow Filipino in far flung areas of the
+              country.</p>
+          </div>
+
+          <div class="col-sm-12 col-lg-6" style="text-shadow: 1px 1px 5px #016a66;">
+            <center>
+
+          <i class="fa fa-heart fa-4x icon" aria-hidden="true" ></i>   </center>  <h4>Travel for a cause</h4>
+            <p style="text-align:justify; text-indent:20px; line-height:2;">No good deed is ever too small, The Project Volunteers Philippines is a Volunteering Organization that focused in supporting Indigenous People (IP) in Geographically Isolated and
+              Disadvantaged Areas (GIDAs). Apart from other things, we regularly hold activities like Livelihood Programs, Literacy Program, Calamity Responses and Gift Giving Activities.</p>
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-lg-12">
+          <center>
+          <a href="bevolunteer.html"> <button type="button" class="btn btn-outline-warning btn-lg"  style="margin:10px; font-size:2em;"><strong> <i class="fa fa-users" aria-hidden="true"></i>Join and Be a Volunteer! </strong></button>
+          </a>
+          </center>
+
+        </div>
+        <div class="col-lg-8 firstrow" style="margin-bottom:10px;">
+        <img src="image/firstrow.png" alt="" style="width:100%; height:100%; ">
+        </div>
+        <div class="col-lg-4 content"style="padding:50px;" >
+          <center>
+            <hr>
+      <em>   <strong> <p style="margin-top:30px;">Agta Tribe - Medical Mission</p></strong> </em>
+      <hr>
+            <p style="text-align:justify; text-indent:20px; font-size:.8em;">
+Medical Mission for the Aeta tribe! They have lack of ability to get hospitalized because they are more likely to have their stomachs full first before their personal health. They were also the beneficiaries of our previous 4 days challenge at the outbreak of the Typhoon Ompong. Now we will go back to them for medical help and a little help with food. We look forward to your cooperation in this cause.
+</center>
+
+        </div>
+        <div class="col-lg-8 secondrow" style="margin-bottom:10px;">
+          <img src="image/secondrow.png" alt="" style="width:100%; height:100%;">
+
+        </div>
+        <div class="col-lg-4" style="padding:50px;">
+          <center >
+            <hr>
+              <em>   <strong> <p style="margin-top:30px; ">Kapangan Medical Mission</p></strong> </em>
+              <hr>
+             <p style="text-align:justify; text-indent:20px; font-size:.8em;">Calling all volunteers to join our team in Kapangan Benguet!
+
+Yes! It’s true. Babalikan ulit namin sila para sa Medical Mission namin sa mga Taga Beling Belis At Tawang Pati na rin ang mga karatig sitio nila.
+
+Baka May mga friends kayo na gustong maging bahagi ng medical mission na ito. Mag sasagawa din po tayo ng proper training sa mga sakuna At mga paunang lunas sa mga sakit. </p>
+            </center>
+        </div>
+        <div class="col-lg-8 thirdrow" style="margin-bottom:10px;">
+          <img src="image/thirdrow.png" alt="" style="width:100%; height:100%;">
+
+        </div>
+        <div class="col-lg-4" style="padding:50px;">
+          <center >
+            <hr>
+              <em>   <strong> <p style="margin-top:30px; ">Kapangan Medical Mission</p></strong> </em>
+              <hr>
+             <p style="text-align:justify; text-indent:20px; font-size:.8em;">Calling all teachers, tutors or anyone who are willing share their time and knowledge to our dear kids, we need you!
+
+Tahanan ng Pag-ibig ni Barbara Micarelli, an orphanage, is in need of volunteers who are willing to teach children (in grades 1-6; 10-15 kids) basic lessons every Saturday from 1pm-3pm at #26 Kanlaon Street, Quezon City (near Welcome Rotunda). </p>
+            </center>
+        </div>
+      </div>
+
+      <!--end of sidebody division -->
+    </div>
+
+    <div class=" col-lg-3" style="background:#016a66; ">
+
+      <div class=" col-lg sticky-top" style="background:#016a66; color:#efb52b; z-index:999; margin-top:50px; padding:10px;">
+        <h4 style="padding-top:50px;">Upcoming PVP Events</h4>
+        <p style="padding-top:10px;">Project Volunteers Philippines does not have any upcoming events.</p>
+        <h4>Past Events</h4>
+        <font size=2;>
+          <table cellspacing=1 cellpadding=5%>
+
+            <tr>
+              <td>
+                <p>AUG </p>
+                <p>23-26</p>
+              </td>
+              <td>
+                <p>
+                  Agta Tribe - Medical Mission</p>
+                <p>Learn more here</p>
+              </td>
+
+            </tr>
+
+          </table>
+
+          <hr style="background:white;  margin:0;">
+          <table cellspacing=1 cellpadding=5%>
+            <tr>
+
+              <td>
+                <p>JUN</p>
+                <p>22-23</p>
+              </td>
+              <td>
+                <p>Kapangan Medical Mission</p>
+                <p>Learn more here</p>
+              </td>
+            </tr>
+            </hr>
+          </table>
+          <hr style="background:white; margin:0;">
+          <table cellspacing=1 cellpadding=5%>
+            <tr>
+
+              <td>
+                <p>MAR</p>
+                <p>9</p>
+              </td>
+              <td>
+                <p>Tutorial activity for the Kids at Tahanan ng Pag-ibig ni Barbara</p>
+                <p>Learn more here</p>
+              </td>
+            </tr>
+            </hr>
+          </table>
+          <hr style="background:white; margin:0;">
+          <table cellspacing=1 cellpadding=5%>
+            <tr style="margin:0">
+
+              <td>
+                <p>FEB</p>
+                <p>16-17</p>
+              </td>
+              <td>
+                <p>Cleanup Drive in Calatagan and A night of Sharing</p>
+                <p>Learn more here</p>
+              </td>
+            </tr>
+            </hr>
+          </table>
+        </font>
+        <a href="https://www.facebook.com/projectvolunteersphilippines/" class="btn btn-light btn-sm" style=""> <i class="fa fa-facebook-square fa-2x" aria-hidden="true" style="color:blue;"></i>
+        </a>
+        <a href="https://www.instagram.com/explore/tags/projectvolunteerphilippines/" class="btn btn-light btn-sm" style=""> <i class="fa fa-instagram fa-2x" aria-hidden="true" style="color:#fb3958;"></i>
+        </a>
+
+        <a href="https://twitter.com/kylelaker22" class="btn btn-light btn-sm" style=""> <i class="fa fa-twitter-square fa-2x" aria-hidden="true" style="color:#1dcaff;"></i>
+        </a>
+      </div>
+
+    </div>
+
+    <div class="col-lg-12 footer">
+    <div class="row footer-size">
+      <div class="col-md-4 col-lg-4" style="margin:3% 0% 0%;">
+      <img src="image/logo.png" alt="" style=" width:50px; height:50px; margin-top:10px;">
+      <p style="padding:0;">Project Volunteer PHILIPPINES</p>
+      <p style="font-size:.9rem; display:inline-block;">Copyright </p> <i class="fa fa-copyright" aria-hidden="true"></i> <p style="font-size:.9rem;display:inline-block;">2019 Project Volunteer Philippines</p>
+      </div>
+      <div class="col-md-4 col-lg-4" style="margin:3% 2% 5%;">
+      <p style="display:inline-block;">Follow Us:  </p>
+      <a href="https://www.facebook.com/projectvolunteersphilippines/" class="btn btn-light btn-sm" style=""> <i class="fa fa-facebook-square fa-1x" aria-hidden="true" style="color:blue;"></i>
+      </a>
+      <a href="https://www.m.me/projectvolunteersphilippines" class="btn btn-light btn-sm" style=""> <i class="fa fa-commenting fa-1x" aria-hidden="true"  style="color:blue;"></i>
+      </a>
+      <a href="mailto:projectvolunteer.ph.2@gmail.com?subject=SweetWords&body=Please" class="btn btn-light btn-sm" style=""> <i class="fa fa-envelope fa-1x" aria-hidden="true" style="color:#fb3958;"></i>
+      </a>
+      <a href="https://www.instagram.com/explore/tags/projectvolunteerphilippines/" class="btn btn-light btn-sm" style=""> <i class="fa fa-instagram fa-1x" aria-hidden="true" style="color:#fb3958;"></i>
+      </a>
+
+      <a href="https://twitter.com/kylelaker22" class="btn btn-light btn-sm" style=""> <i class="fa fa-twitter-square fa-1x" aria-hidden="true" style="color:#1dcaff;"></i>
+      </a>
+      </div>
+      <div class="col-md-3 col-lg-3 " style="margin:3% 2% 5%;">
+      <p>Do you want to be the future volunteer?</p>
+      <a href="bevolunteer.html"> <button type="button" class="btn btn-light"  style="margin:10px; font-size:.7em;"><strong> <i class="fa fa-users" aria-hidden="true"></i>Join and Be a Volunteer! </strong></button>
+      </a>
+      </div>
+    </div>
+    </div>
+  </div>
+  </div>
+</body>
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+
+</html>
