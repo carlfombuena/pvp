@@ -3,6 +3,7 @@ const bodyParser = require("body-parser");
 const request = require("request");
 const app = express();
 const https = require("https");
+require('dotenv').config();
 app.use(express.static("public"));
 app.use(bodyParser.urlencoded({extended: true}));
 
@@ -35,7 +36,7 @@ app.post("/signup",function(req,res){
 
   const options = {
     method: "POST",
-    auth: "carlfombuena:c93f445a61fc2ffb36a8756c01f2654d-us2"
+    auth: process.env.API_KEY
   };
   const request = https.request(url, options, function(response){
     if( response.statusCode === 200){
